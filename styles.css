@@ -223,6 +223,9 @@ html,body{
 .skills-title{
     margin-bottom: 30px;
 }
+.skills .row{
+    justify-content: center !important;
+}
 .skills-title hr{
     border-top: 5px dotted #fff;
     width: 40px;
